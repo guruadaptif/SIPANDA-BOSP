@@ -1,0 +1,6 @@
+{
+  "name": "SIPANDA BOSP - Sistem Informasi Pengelolaan dan Administrasi Dana BOSP",
+  "description": "Sistem Informasi Manajemen Keuangan Dana BOSP Edisi Profesional Enterprise untuk Bendahara Sekolah dan Dinas Pendidikan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
